@@ -1,0 +1,17 @@
+body
+{
+    color: rgb(255, 255, 255); 
+    background-image: url("painting-mountain-lake-with-mountain-background_188544-9126.avif");
+    background-color:rgb(255, 0, 242);
+}
+.heading
+{
+    font-weight: bold;
+    font-size: 22px;
+}
+#camera
+{
+border:2px dashed black;
+width: 350px;
+height: 300px;
+}
